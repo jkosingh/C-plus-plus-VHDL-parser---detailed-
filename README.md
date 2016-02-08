@@ -33,16 +33,16 @@ Parser functionality includes:
 -program will prompt user with a verbose or non-verbose mode.
 
 In non-verbose mode:
- The number of tokens
- The number of conditional expressions
- The number of missing “end if”s
- The number of missing “then”s
- The number of type mismatches
- The number of width mismatches
+- the number of tokens
+- The number of conditional expressions
+- The number of missing “end if”s
+- The number of missing “then”s
+- The number of type mismatches
+- The number of width mismatches
 
 In verbose mode:
- All of the non-verbose counts.
- For all error cases print out the line(s) on which the error occurs along with its type
- Any additional details you wish to include
+- All of the non-verbose counts.
+- For all error cases print out the line(s) on which the error occurs along with its type
+- Any additional details you wish to include
 
 Plus some bonus features
